@@ -11,6 +11,7 @@ public class Main {
 
         singleton1.showMessage();
 
+
         //в выводе будет одинаковый хешкод
         System.out.println(singleton1);
         System.out.println(singleton2);
