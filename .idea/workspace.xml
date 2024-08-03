@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc495168-a28c-46b9-94d3-1213af03b091" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDesignPatterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyDesignPatternsTest.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +40,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.com.example.Prototype.Main.executor": "Run",
-    "Application.com.example.builder.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.com.example.Prototype.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.example.builder.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.example.builder" />
@@ -56,7 +58,7 @@
   <component name="RunManager" selected="Application.com.example.Prototype.Main">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.button.Demo" />
-      <module name="MyDesignPatterns" />
+      <module name="MyDesignPatternsTest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.button.*" />
@@ -69,7 +71,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.factory.Main" />
-      <module name="MyDesignPatterns" />
+      <module name="MyDesignPatternsTest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.factory.*" />
@@ -82,7 +84,7 @@
     </configuration>
     <configuration name="com.example.Prototype.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Prototype.Main" />
-      <module name="MyDesignPatterns" />
+      <module name="MyDesignPatternsTest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.Prototype.*" />
@@ -95,7 +97,7 @@
     </configuration>
     <configuration name="com.example.builder.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.builder.Main" />
-      <module name="MyDesignPatterns" />
+      <module name="MyDesignPatternsTest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.builder.*" />
@@ -108,7 +110,7 @@
     </configuration>
     <configuration name="com.example.singleton.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.singleton.Main" />
-      <module name="MyDesignPatterns" />
+      <module name="MyDesignPatternsTest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.singleton.*" />
@@ -175,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722673673052</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1722674082384</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722674082384</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
